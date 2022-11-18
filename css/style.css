@@ -20,6 +20,12 @@
 	font-size: 35px;
 	text-decoration: nome;
 	color: aliceblue;
+
+ }
+ nav a:hover {
+	color: brown;
+	text-align: underline;
+
  }
 
 
