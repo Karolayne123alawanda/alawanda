@@ -6,11 +6,25 @@
 	display: inline;
 	text-decoration: none;
 	text-transform: uppercase;
+	margin: 0, 25px, 0, 25px;
+	padding-right: 5%;
+
+ }
+
+ nav{
+	width: 940px;
+ }
+
+ nav a {
+	font-weight: lighter;
+	font-size: 35px;
+	text-decoration: nome;
+	color: aliceblue;
  }
 
 
 body {
-	background: purple;
+	background: blue;
 	text-align: center;
 	margin: 0;
 	padding: 0;
